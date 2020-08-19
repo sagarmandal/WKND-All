@@ -42,6 +42,8 @@ MANIFEST.MF
 # TeXlipse plugin
 .texlipse
 
+# Visual Studio Code
+.vscode
 
 ### Java ###
 *.class
@@ -78,5 +80,3 @@ buildNumber.properties
 .idea/
 *.iml
 
-### Visual Studio ###
-.vscode
